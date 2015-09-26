@@ -4,4 +4,4 @@ This Python script allows a Slack bot to post an announcement whenever a new cha
 
 Requires the [slack](https://github.com/kn/slack) Python package to interact with the Slack API.
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
