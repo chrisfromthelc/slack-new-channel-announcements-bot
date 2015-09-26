@@ -1,0 +1,4 @@
+slack
+psycopg2
+os
+urlparse
