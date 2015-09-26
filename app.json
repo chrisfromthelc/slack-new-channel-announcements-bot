@@ -1,6 +1,6 @@
 {
   "name": "Slack New Channel Announcement Bot",
-  "description": "A bot that keeps track of new channels and announces them in a channel of your choice",
+  "description": "A bot that keeps track of new channels and announces them in a channel of your choice!",
   "repository": "https://github.com/chrisfromthelc/slack-new-channel-announcements-bot",
   "keywords": ["slack", "slackbot", "channels"]
 }
