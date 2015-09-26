@@ -1,5 +1,5 @@
 {
-  "name": "Slack New Channel Announcement Bot",
+  "name": "Slack New Channel Bot",
   "description": "A bot that keeps track of new channels and announces them in a channel of your choice!",
   "repository": "https://github.com/chrisfromthelc/slack-new-channel-announcements-bot",
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
